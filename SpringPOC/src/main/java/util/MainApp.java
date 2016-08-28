@@ -13,6 +13,9 @@ ApplicationContext context     = new ClassPathXmlApplicationContext(springConfig
 SampleVO obj=(SampleVO) context.getBean("SampleVO");
 obj.getHello();
 System.out.println("hey this is niranjan");
+
+System.out.println("Master stream");
+System.out.println("Master  niranjan");
 System.out.println("This is relase 1.0 f");
 
 System.out.println("This is relase 1.0 f");
