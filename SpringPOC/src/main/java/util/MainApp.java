@@ -15,7 +15,7 @@ obj.getHello();
 System.out.println("hey this is niranjan");
 System.out.println("Master stream");
 System.out.println("Master  niranjan");
-System.out.println("Master  ");
+
 
 }
 }
