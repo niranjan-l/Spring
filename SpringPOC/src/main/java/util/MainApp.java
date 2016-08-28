@@ -12,6 +12,7 @@ public static void main(String[] args) {
 ApplicationContext context     = new ClassPathXmlApplicationContext(springConfig);
 SampleVO obj=(SampleVO) context.getBean("SampleVO");
 obj.getHello();
+System.out.println("hey this is niranjan");
 
 
 }
