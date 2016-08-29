@@ -1,0 +1,17 @@
+package com.annotations;
+
+import org.springframework.context.annotation.Configuration;
+
+@Configuration
+public class PersonConfig {
+
+	Person person;
+
+	public Person getPerson() {
+		return person;
+	}
+
+	public void setPerson(Person person) {
+		this.person = person;
+	}
+}

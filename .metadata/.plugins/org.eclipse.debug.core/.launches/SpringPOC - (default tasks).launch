@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.buildship.core.launch.runconfiguration">
+<listAttribute key="arguments"/>
+<stringAttribute key="gradle_distribution" value="GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(C:\Users\SRINIVAS\Documents\gradle-3.0-all-1\gradle-3.0))"/>
+<stringAttribute key="java_home" value="C:\Program Files\Java\jre1.8.0_102"/>
+<listAttribute key="jvm_arguments"/>
+<booleanAttribute key="show_console_view" value="true"/>
+<booleanAttribute key="show_execution_view" value="true"/>
+<listAttribute key="tasks"/>
+<stringAttribute key="working_dir" value="${workspace_loc:/SpringPOC}"/>
+</launchConfiguration>

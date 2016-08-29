@@ -1,0 +1,14 @@
+package com.annotations;
+
+public class Person {
+String name;
+
+public String getName() {
+	System.out.println("my name is" +name);
+	return name;
+}
+
+public void setName(String name) {
+	this.name = name;
+}
+}

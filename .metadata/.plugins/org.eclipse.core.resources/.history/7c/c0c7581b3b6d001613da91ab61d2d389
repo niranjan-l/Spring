@@ -1,0 +1,6 @@
+package com.annotations;
+
+public class PersonConfig {
+
+	Person person;
+}
